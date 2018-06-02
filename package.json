@@ -1,0 +1,23 @@
+{
+  "name": "@socialmecpl/bitsaspidy007",
+  "version": "1.0.0",
+  "description": "New Bitsaspidy theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialmecpl/bitsaspidy007.git"
+  },
+  "keywords": [
+    "bitsaspidy",
+    "nodejs"
+  ],
+  "author": "Devavrat Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socialmecpl/bitsaspidy007/issues"
+  },
+  "homepage": "https://github.com/socialmecpl/bitsaspidy007#readme"
+}
